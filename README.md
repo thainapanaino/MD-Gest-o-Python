@@ -7,7 +7,7 @@
 
 Um sistema robusto e elegante projetado para otimizar o fluxo de trabalho de quem trabalha com encomendas personalizadas. O foco é sair do controle manual e evoluir para uma gestão baseada em dados.
 
-Inicialmente este projeto esta sendo desenvolvido para a MP Personalizados, com foco em otimizar tempo, organização e melhora na gestão.
+Inicialmente este projeto está sendo desenvolvido para a MP Personalizados, com foco em otimizar tempo, organização e melhora na gestão.
 O sistema se chama MD Gestão = Gestão de Métricas e Dados para a MP Personalizados
 
 Como objetivos Principais:
@@ -87,7 +87,5 @@ Identificamos a necessidade de uma visão 360º do negócio, o que levou à expa
     Gestão de Estoque: Controle de produtos e insumos.
     Gestão de cadastros: Cadastro de clientes, produtos, fornecedores
     Gestão de Tempo: Monitoramento da eficiência produtiva.
-    Business Intelligence: Transformação de dados brutos em decisões estratégicas para a empresa, informando atraves de dashboards completo
-    
-## Rotina:
-Atualmente tive que realizar a instalação do pandas, para isso precisei criar o ambiente .venv, para depois nele realizar a instalação do panadas (o .venv é uma pasta robusta que contém todo o motor do Python e as bibliotecas (Pandas, Streamlit, gerado pelo comando python3 -m venv .venv, para localizar abre o terminal no VS Code, Digita: source .venv/bin/activate, O Python "sabe" onde a pasta está e usa tudo o que instalado)
+    Business Intelligence: Transformação de dados brutos em decisões estratégicas para a empresa, informando através de dashboards completo
+    Ambiente virtual configurado com .venv para isolamento das dependências do projeto.
