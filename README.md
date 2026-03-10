@@ -1,9 +1,9 @@
-MD Gestão - Log de Engenharia & Diário de Bordo
+## MD Gestão - Log de Engenharia & Diário de Bordo
     - Autora: Thainá Panaino
     - Foco: Cientista de Dados | Futura Machine Learning 
     - Projeto: Sistema ERP para Microempreendedores de Personalizados
 
-*Escopo Projeto de gestão para microempresas*
+## *Escopo Projeto de gestão para microempresas*
 
 Um sistema robusto e elegante projetado para otimizar o fluxo de trabalho de quem trabalha com encomendas personalizadas. O foco é sair do controle manual e evoluir para uma gestão baseada em dados.
 
@@ -17,7 +17,7 @@ Como objetivos Principais:
    - Documentação: Geração de comprovantes em PDF.
    - Business Intelligence: Dashboard para visualização de métricas (Ticket Médio, Vendas por Período).
    
-Stack Tecnológica escolhidas para o desenvolvimento do sistema:
+## Stack Tecnológica escolhidas para o desenvolvimento do sistema:
 | Área | Ferramenta | Uso |
 | :--- | :--- | :--- |
 | **Editor** | Visual Studio Code | Desenvolver o sistema |
@@ -33,7 +33,7 @@ Stack Tecnológica escolhidas para o desenvolvimento do sistema:
 | **Dashboard** | Streamlit | Criar painel de dados |
 | **Relatórios** | ReportLab | Gerar PDFs |
 
-oadmap de Desenvolvimento e Escalabilidade
+## Roadmap de Desenvolvimento e Escalabilidade
 
 O projeto foi dividido em sprints estratégicas para garantir a evolução de um script simples para evolução.
 
@@ -74,7 +74,7 @@ Fase 4: Machine Learning e Futuro (Visão L5 🚀)
     [ ] Deploy: Migração para arquitetura em Nuvem (Cloud) para acesso remoto seguro.
 
 -------------------------------------------------------------------------------
-*Status de Desenvolvimento*
+## *Status de Desenvolvimento*
 
 A prioridade inicial foi a organização do fluxo de vendas. Estabelecemos que o ponto de partida seria o módulo de Notas, permitindo o registro detalhado de cada transação.
    - Campos Estruturados: Nome do emissor, dados do cliente, data, hora e valores.
@@ -89,5 +89,5 @@ Identificamos a necessidade de uma visão 360º do negócio, o que levou à expa
     Gestão de Tempo: Monitoramento da eficiência produtiva.
     Business Intelligence: Transformação de dados brutos em decisões estratégicas para a empresa, informando atraves de dashboards completo
     
-Rotina:
+## Rotina:
 Atualmente tive que realizar a instalação do pandas, para isso precisei criar o ambiente .venv, para depois nele realizar a instalação do panadas (o .venv é uma pasta robusta que contém todo o motor do Python e as bibliotecas (Pandas, Streamlit, gerado pelo comando python3 -m venv .venv, para localizar abre o terminal no VS Code, Digita: source .venv/bin/activate, O Python "sabe" onde a pasta está e usa tudo o que instalado)
