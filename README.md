@@ -1,7 +1,7 @@
 MD Gestão - Log de Engenharia & Diário de Bordo
-    Autora: Thainá Panaino
-    Foco: Cientista de Dados | Futura Machine Learning 
-    Projeto: Sistema ERP para Microempreendedores de Personalizados
+    - Autora: Thainá Panaino
+    - Foco: Cientista de Dados | Futura Machine Learning 
+    - Projeto: Sistema ERP para Microempreendedores de Personalizados
 
 *Escopo Projeto de gestão para microempresas*
 
